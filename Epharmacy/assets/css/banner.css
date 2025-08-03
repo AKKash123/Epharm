@@ -1,0 +1,20 @@
+.banner{
+    position:absolute;
+    background-repeat: no-repeat;
+    background-size: 432vh;
+    padding: 224px;
+    margin-left: 93px;
+    width: 999vh;
+    height: 53px;
+}
+h1{
+    position: absolute;
+    margin-top: 2%;
+    margin-right: 10px;
+    font-family: 'Lilita One', cursive;
+    font-size: 50px;
+    color: #363331;
+    line-height: 5px;
+}
+  
+  

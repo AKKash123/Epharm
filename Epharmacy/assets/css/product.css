@@ -1,0 +1,16 @@
+.product-price{
+    font-size:2em;
+    font-style:robot;
+}
+ 
+.product-details{
+    font-size:2em;
+    font-style:robot;
+      padding: 40px;
+      background-color:hsl(228,60%,78%);
+      border-radius: 0 0 20px 20px;
+      .title{
+        text-color:white;
+        text-transform: uppercase;
+        margin: 0;
+}
